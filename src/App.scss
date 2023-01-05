@@ -1,0 +1,61 @@
+.App {
+    // border: 2px solid red;
+
+}
+.select-option {
+    width: clamp(200px,50%,50%);
+    font-size: calc(10px + .6vw);
+    padding: 10px;
+    border: none;
+    box-shadow: 0 0 10px rgba(32, 31, 31,.4);
+    border-radius: 4px;
+    margin: 2vh;
+    padding: 1vw;
+    cursor: pointer;
+    border: 2px solid transparent;
+    &:hover {
+        border: 2px solid red;
+    }
+}
+.slect-service {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 2vh 0.5vw;
+    padding: 10px 0;
+    label {
+        font-size: calc(10px + .6vw);
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        margin: 2vh 5%;
+        cursor: pointer;
+        &:hover{
+            color: blue;
+        }
+        input{
+            accent-color: rgb(241, 15, 15);
+        }
+    }
+}
+.disply-output{
+    margin: .3vh 0;
+    padding: 0 2vw;
+    h4{
+        font-size: calc(12px + .7vw);
+        color: blue;
+    }
+    h3{
+        font-size: calc(12px + .6vw);
+        font-style: oblique;
+        font-weight: 500;
+        span{
+            font-weight: bold;
+        }
+    }
+}
+.Notes{
+    color: red;
+    font-size: calc(10px + .5vw);
+}
