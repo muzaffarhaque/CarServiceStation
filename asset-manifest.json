@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CarServiceStation/static/css/main.3cb5bde0.css",
+    "main.js": "/CarServiceStation/static/js/main.75835678.js",
+    "static/js/787.1d73d7ba.chunk.js": "/CarServiceStation/static/js/787.1d73d7ba.chunk.js",
+    "index.html": "/CarServiceStation/index.html",
+    "main.3cb5bde0.css.map": "/CarServiceStation/static/css/main.3cb5bde0.css.map",
+    "main.75835678.js.map": "/CarServiceStation/static/js/main.75835678.js.map",
+    "787.1d73d7ba.chunk.js.map": "/CarServiceStation/static/js/787.1d73d7ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cb5bde0.css",
+    "static/js/main.75835678.js"
+  ]
+}
