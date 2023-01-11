@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/CarServiceStation/static/css/main.3cb5bde0.css",
-    "main.js": "/CarServiceStation/static/js/main.13911aba.js",
+    "main.css": "/CarServiceStation/static/css/main.cd9a8503.css",
+    "main.js": "/CarServiceStation/static/js/main.a5235f06.js",
     "static/js/787.1d73d7ba.chunk.js": "/CarServiceStation/static/js/787.1d73d7ba.chunk.js",
+    "static/media/Table.jpg": "/CarServiceStation/static/media/Table.8c74ee6ef25cbc8b5a45.jpg",
     "index.html": "/CarServiceStation/index.html",
-    "main.3cb5bde0.css.map": "/CarServiceStation/static/css/main.3cb5bde0.css.map",
-    "main.13911aba.js.map": "/CarServiceStation/static/js/main.13911aba.js.map",
+    "main.cd9a8503.css.map": "/CarServiceStation/static/css/main.cd9a8503.css.map",
+    "main.a5235f06.js.map": "/CarServiceStation/static/js/main.a5235f06.js.map",
     "787.1d73d7ba.chunk.js.map": "/CarServiceStation/static/js/787.1d73d7ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cb5bde0.css",
-    "static/js/main.13911aba.js"
+    "static/css/main.cd9a8503.css",
+    "static/js/main.a5235f06.js"
   ]
 }
